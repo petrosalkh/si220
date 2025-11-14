@@ -16,7 +16,7 @@ classifiers = [
 ]
 dependencies = [
   "gdsfactory~=9.2.2",
-  "gplugins[sax]>=1,<2"
+  "gplugins[sax]>=1,<3"
 ]
 description = "CornerStone PDK"
 keywords = ["python"]
